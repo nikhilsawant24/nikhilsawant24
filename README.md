@@ -28,7 +28,7 @@
 
 ## 💼 Experience  
 
-**AI/ML Intern – Anubhooti Solutions** *(May 2024 – July 2025, Pune)*  
+**AI/ML Intern – Anubhooti Solutions** *(Jan 2024 – July 2025, Pune)*  
 - Developed and trained computer vision models for predictive analytics using **Python, TensorFlow, OpenCV**.  
 - Automated image data ingestion & cleaning pipeline → reduced manual effort by **70%**.  
 - Improved CNN prediction accuracy by **12%** via hyperparameter tuning & transfer learning.  
